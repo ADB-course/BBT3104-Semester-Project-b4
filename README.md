@@ -3,9 +3,9 @@
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
-| **Name of Business Chosen for the Case Study**                                                       | ? |
-| **Industry**                                                       | ? |
-| **Group Name**                                                               | ? |
+| **Name of Business Chosen for the Case Study**                                                       | Del Monte|
+| **Industry**                                                       | Del Monte Companies |
+| **Group Name**                                                               | B4 |
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 # Cause-and-Effect Diagram
